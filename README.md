@@ -15,6 +15,7 @@ SOAP is a messaging protocol for exchanging information between two computers ba
  WSDL is used to define the service interface. It outlines the operations the web service provides, the data types it uses, the interaction protocol, and the location of the web service.
  
  <img width="937" alt="wsdl" src="https://github.com/aymanehed/Microservice-app/assets/93987581/27b7b806-18dc-43fb-b313-f4088025336e">
+
  
 <img width="691" alt="rest" src="https://github.com/aymanehed/Microservice-app/assets/93987581/6a6fc17c-b69a-4e53-bd06-fff400eea6da">
 
