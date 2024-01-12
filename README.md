@@ -26,10 +26,10 @@ REST is a set of guidelines that software can use to communicate over the intern
 
 ### GRPC
 GRPC  revolves around the idea of defining a service, such as identifying the methods that can be remotely called with their parameters and return types. However, gRPC provides sophisticated technologies that are efficient and scalable, such as HTTP/2 and streams.It can use protocol buffers as both its Interface Definition Language (IDL) and as its underlying message interchange format.
-<img width="936" alt="Screenshot 2024-01-12 090258" src="https://github.com/aymanehed/Microservice-app/assets/93987581/4b9a864d-9896-4c80-aa05-12977e4bee9e">
+
+<img width="955" alt="GRPC" src="https://github.com/aymanehed/Microservice-app/assets/93987581/4b99f59b-78df-4ff7-837e-255b21a6998c">
 
 ### GraphQL
 GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools.
-
-<img width="955" alt="GRPC" src="https://github.com/aymanehed/Microservice-app/assets/93987581/4b99f59b-78df-4ff7-837e-255b21a6998c">
+<img width="936" alt="Screenshot 2024-01-12 090258" src="https://github.com/aymanehed/Microservice-app/assets/93987581/4b9a864d-9896-4c80-aa05-12977e4bee9e">
 
